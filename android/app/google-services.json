@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888174194718",
+    "project_id": "kutuphane-f4443",
+    "storage_bucket": "kutuphane-f4443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888174194718:android:9a78dd13369588149b7e0f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2YWWxqasTESBex8xvYL7ZSW2ZEzT-yEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
